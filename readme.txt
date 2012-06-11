@@ -1,0 +1,1 @@
+This map shows where you will be able to see the America's Cup race in San Francisco.
