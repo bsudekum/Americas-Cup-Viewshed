@@ -1,4 +1,4 @@
-var viewshed = {
+{
 "type": "FeatureCollection",
 "properties": {
         "popupContent": "This is the Auraria West Campus",
